@@ -5,13 +5,9 @@
 <p align="center">
   <em>
   
-    This is ME, Akash chowrasia, a <b>final year</b> undergraduate from  <b>Amritsar college of engineering & technology</b>, amritsar</a>. <br>
-    A budding <b>Full-Stack Software Developer</b> and a <b>Competitive Programming Enthusiast</b>&nbsp;
-    with the idea of <b>improving</b> himself and wants a <b>platform</b> to 
-    <b>grow</b> 
+    This is ME, Akash chowrasia, a <b>final year</b> undergraduate from  <b>Amritsar college of engineering & technology
     
   </em> 
-  <br>
 </p>
 
 
