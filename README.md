@@ -13,7 +13,10 @@ My name is Kemel. I am a <b> 7th-semester </b>  <b> student of Computer Science 
 <p align="left">
 
 ### &nbsp; Lenguanges
-![Texto alternativo](https://www.vectorlogo.zone/util/preview.html?image=/logos/java/java-horizontal.svg)
+<img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg"
+      alt="android" width="40" height="40" /> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+
 
 
 
