@@ -3,11 +3,7 @@
 <!--
 
 <p align="center">
-  <em>
-  
     This is ME, Akash chowrasia, a <b>final year</b> undergraduate from  <b>Amritsar college of engineering & technology
-    
-  </em> 
 </p>
 
 
