@@ -20,7 +20,7 @@ My name is Kemel. I am a <b> 7th-semester </b>  <b> student of Computer Science 
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" /> 
 
-<img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/java/java-horizontal.svg" alt="java" width="40" height="40" /> 
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" />
 
 
 
