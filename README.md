@@ -23,7 +23,7 @@ My name is Kemel. I am a <b> 7th-semester </b>  <b> student of Computer Science 
 
 <img width="40" height="40" src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/cpp.svg'> 
 
-[<img src="https://hsto.org/webt/5b/2e/6a/5b2e6a4a389cc942256392.png" alt="golang" width="100">](https://golang.org/doc/)
+<img width="40" height="40" src="https://hsto.org/webt/5b/2e/6a/5b2e6a4a389cc942256392.png" alt="golang" >
 
 
 
