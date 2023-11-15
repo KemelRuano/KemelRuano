@@ -3,5 +3,5 @@
 
 
 <p align="center">
-    This is ME, Akash chowrasia, a <b>final year</b> undergraduate from  <b>Amritsar college of engineering & technology
+My name is Kemel. I am a 7th-semester student of Computer Science and Systems Engineering at the University of San Carlos of Guatemala. I am a bold programmer whose sole objective is to learn something new every day. I am also a competitive programming enthusiast with a desire to become a great software developer in order to constantly challenge myself.
 </p>
