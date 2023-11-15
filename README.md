@@ -3,5 +3,5 @@
 
 
 <p align="center">
-My name is Kemel. I am a 7th-semester student of Computer Science and Systems Engineering at the University of San Carlos of Guatemala. I am a bold programmer whose sole objective is to learn something new every day. I am also a competitive programming enthusiast with a desire to become a great software developer in order to constantly challenge myself.
+My name is Kemel. I am a <b> 7th-semester </b> student of Computer Science and Systems Engineering at the  <b> University of San Carlos of Guatemala </b>. I am a bold programmer whose sole objective is to learn something new every day. I am also a competitive programming enthusiast with a desire to become a great software developer in order to constantly challenge myself.
 </p>
