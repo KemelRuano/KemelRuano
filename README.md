@@ -15,6 +15,6 @@ My name is Kemel. I am a <b> 7th-semester </b>  <b> student of Computer Science 
 ### &nbsp; Lenguanges
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
+![Java](https://www.vectorlogo.zone/util/preview.html?image=/logos/java/java-horizontal.svg)&nbsp;
 
 
