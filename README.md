@@ -1,6 +1,6 @@
 <h1 align="center" style="font-family: 'Arial', sans-serif; font-size: 24px; color: black;">¡Hello!, 🌟 Welcome to my profile, delighted to meet you. 🚀✨</h1>
 
-<br>
+
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 <br>
 
