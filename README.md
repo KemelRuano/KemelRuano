@@ -9,9 +9,15 @@ My name is Kemel. I am a <b> 8th-semester </b>  <b> student of Computer Science 
 </p>
 
 
+
+
+## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+
+<br>
+
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***My working tools...***
 <p align="left">
-
+ 
 ### &nbsp; Lenguanges
 <p align="left">
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
@@ -45,7 +51,5 @@ My name is Kemel. I am a <b> 8th-semester </b>  <b> student of Computer Science 
 
 <br>
 
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
-<br>
 
