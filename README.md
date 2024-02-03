@@ -42,10 +42,12 @@ My name is Kemel. I am a <b> 8th-semester </b>  <b> student of Computer Science 
 
 ### SRE & DevOps:
 &emsp;
+<p align="center">
 ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS)
 ![Azure](https://img.shields.io/badge/-Azure-000?&logo=Microsoft-Azure)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
 ![Nginx](https://img.shields.io/badge/-Nginx-000?&logo=Nginx)
+</p>
 
 ### Version Control & CI/CD
 &emsp;
@@ -64,9 +66,6 @@ My name is Kemel. I am a <b> 8th-semester </b>  <b> student of Computer Science 
     <a href="https://www.docker.com/" target="_blank">
     <img src="https://img.shields.io/badge/docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white"
       alt="docker"/>
-  </a>
-  <a href="https://www.jenkins.io" target="_blank"> 
-    <img src="https://img.shields.io/badge/jenkins-D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white" alt="jenkins"/> 
   </a>
 </p>
 
