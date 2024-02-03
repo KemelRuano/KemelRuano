@@ -18,7 +18,8 @@ My name is Kemel. I am a <b> 8th-semester </b>  <b> student of Computer Science 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***My working tools...***
 <p align="left">
  
-### &nbsp; Lenguanges
+### Programming languages:
+&emsp;
 <p align="left">
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
       alt="c" width="40" height="40" /> 
@@ -41,6 +42,14 @@ My name is Kemel. I am a <b> 8th-semester </b>  <b> student of Computer Science 
 
  
  </p>
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript&logoColor=007ACC)
+![GO](https://img.shields.io/badge/-GO-000?&logo=Go)
+![Bash](https://img.shields.io/badge/-Bash-000?&logo=GNU-Bash)
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP)
+
 
 ### Databases:
 &emsp;
