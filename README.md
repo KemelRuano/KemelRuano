@@ -51,9 +51,7 @@ My name is Kemel. I am a <b> 8th-semester </b>  <b> student of Computer Science 
 
 <br>
 
-<h4 align="center">Visitor's count :eyes:</h4>
 
-<p align="center"><img src="https://profile-counter.glitch.me/{AnhellO}/count.svg" alt="AnhellO :: Visitor's Count" /></p>
 
 
 
