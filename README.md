@@ -42,6 +42,14 @@ My name is Kemel. I am a <b> 8th-semester </b>  <b> student of Computer Science 
  
  </p>
 
+### Databases:
+&emsp;
+![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=PostgreSQL)
+![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL)
+![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
+
+
 
  <h3>Statistical Data :-</h3>
 <p><img align="center"
