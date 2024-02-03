@@ -42,15 +42,15 @@ My name is Kemel. I am a <b> 8th-semester </b>  <b> student of Computer Science 
 
 ### SRE & DevOps:
 &emsp;
-<p align="center">
 ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS)
 ![Azure](https://img.shields.io/badge/-Azure-000?&logo=Microsoft-Azure)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
 ![Nginx](https://img.shields.io/badge/-Nginx-000?&logo=Nginx)
-</p>
+
 
 ### Version Control & CI/CD
 &emsp;
+![git](https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 <p align="center">
   <a href="https://git-scm.com/" target="_blank">
     <img src="https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=white"
