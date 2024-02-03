@@ -1,6 +1,8 @@
 <h1 align="center" style="font-family: 'Arial', sans-serif; font-size: 24px; color: black;">¡Hello!, 🌟 Welcome to my profile, delighted to meet you. 🚀✨</h1>
 
-
+<br>
+## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+<br>
 
 <p align="center">
 <em>
@@ -11,9 +13,7 @@ My name is Kemel. I am a <b> 8th-semester </b>  <b> student of Computer Science 
 
 
 
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
-<br>
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***My working tools...***
 <p align="left">
