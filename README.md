@@ -1,4 +1,6 @@
-<h1 align="center" style="font-family: 'Arial', sans-serif; font-size: 24px; color: black;">¡Hello!, 🌟 Welcome to my profile, delighted to meet you. 🚀✨</h1>
+<h1 align="center" style="font-family: 'Arial', sans-serif; font-size: 24px; color: black;">
+            ¡Hello!, 🌟 Welcome to my profile, delighted to meet you. 🚀✨
+</h1>
 
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
@@ -6,63 +8,88 @@
 
 <p align="center">
 <em>
-My name is Kemel. I am a <b> 8th-semester </b>  <b> student of Computer Science and Systems Engineering </b> at the  <b> University of San Carlos of Guatemala </b>. I am a bold programmer whose sole objective is to learn something new every day. I am also a competitive programming enthusiast with a desire to become a great software developer in order to constantly challenge myself.
+My name is Kemel. I am a <b> 9th-semester </b>  <b> student of Computer Science and Systems Engineering </b> at the  <b> University of San Carlos of Guatemala </b>. I am a bold programmer whose sole objective is to learn something new every day. I am also a competitive programming enthusiast with a desire to become a great software developer in order to constantly challenge myself.
 </em>
 </p>
-
-
-
-
-
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***My working tools...***
 <p align="left">
  
-### Programming languages:
-&emsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript&logoColor=007ACC)
-![GO](https://img.shields.io/badge/-GO-000?&logo=Go)
-![Bash](https://img.shields.io/badge/-Bash-000?&logo=GNU-Bash)
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP)
-<a href="https://www.w3schools.com/cpp/" target="_blank"> 
-    <img alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?logo=c%2B%2B&logoColor=white">
-</a> 
-<a href="https://www.java.com" target="_blank"> 
-    <img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?logo=java&logoColor=white">
-</a>
 
-### Databases:
-&emsp;
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=PostgreSQL)
-![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL)
-![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
+### Front-End Development
+**Languages**
 
+![Js](https://skillicons.dev/icons?i=javascript)
+![Html](https://skillicons.dev/icons?i=html)
+![Css](https://skillicons.dev/icons?i=css)
+![Typescript](https://skillicons.dev/icons?i=typescript)
+![Php](https://skillicons.dev/icons?i=php)
+
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+
+
+**Libraries and frameworks**
+
+![Vue.js](https://skillicons.dev/icons?i=vuejs)
+![Vite](https://skillicons.dev/icons?i=vite)
+![Angular](https://skillicons.dev/icons?i=angular)
+![Bootstrap](https://skillicons.dev/icons?i=bootstrap)
+![React](https://skillicons.dev/icons?i=react)
+
+### Back-End Development
+**Languages**
+
+![C](https://skillicons.dev/icons?i=c)
+![Cpp](https://skillicons.dev/icons?i=cpp)
+![Go](https://skillicons.dev/icons?i=golang)
+![Java](https://skillicons.dev/icons?i=java)
+![Python](https://skillicons.dev/icons?i=python)
+
+**Libraries and frameworks**
+
+![Flask](https://skillicons.dev/icons?i=flask)
+![Hibernate](https://skillicons.dev/icons?i=hibernate)
+![spring](https://skillicons.dev/icons?i=spring)
+<img src="https://camo.githubusercontent.com/df84f189906dc30fb475582c6c41b4a85e54196860a9e72af951607ceb6efd61/687474703a2f2f692e696d6775722e636f6d2f77716976766a4b2e6a7067" alt="Crow" width="100"/>
+<img src="https://miro.medium.com/v2/resize:fit:1400/1*A-EA3uxS16IhYDrr0dQ-6w.png" alt="Fiber" width="100" height="45"/>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-FHvvnBTyk08qxK6kT9XzyFLt6wvR3ro77WGRod-y&s" alt="Fiber" width="100" height="45"/>
+
+
+
+### Databases
+
+**SQL**
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,postgresql&perline=12" />
+  </a>
+</p>
+
+**NoSQL**
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=redis,mongodb,&perline=12" />
+  </a>
+</p>
 
 ### SRE & DevOps:
 &emsp;
-![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS)
-![Azure](https://img.shields.io/badge/-Azure-000?&logo=Microsoft-Azure)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
-![Nginx](https://img.shields.io/badge/-Nginx-000?&logo=Nginx)
+![Aws](https://skillicons.dev/icons?i=aws)
+![Azure](https://skillicons.dev/icons?i=azure)
+![Gcp](https://skillicons.dev/icons?i=gcp)
+![Docker](https://skillicons.dev/icons?i=docker)
+![Kubernetes](https://skillicons.dev/icons?i=kubernetes)
 
 
-### Version Control & CI/CD
+
+### Version Control
 &emsp;
-![git](https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=white)
-![github](https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white)
-![gitlab](https://img.shields.io/badge/gitlab-181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
-![docker](https://img.shields.io/badge/docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
+![git](https://skillicons.dev/icons?i=git)
+![gitlab](https://skillicons.dev/icons?i=gitlab)
+![github](https://skillicons.dev/icons?i=github)
 
 
- <h3>Statistical Data :-</h3>
-<p><img align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=adam-pw&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
-    alt="adam-pw" 
-    bg_color=#808080/></p>
 
-<br>
 
 
 
