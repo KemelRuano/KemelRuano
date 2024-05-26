@@ -6,6 +6,7 @@
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 <br>
 
+
 <p align="center">
 <em>
 My name is Kemel. I am a <b> 9th-semester </b>  <b> student of Computer Science and Systems Engineering </b> at the  <b> University of San Carlos of Guatemala </b>. I am a bold programmer whose sole objective is to learn something new every day. I am also a competitive programming enthusiast with a desire to become a great software developer in order to constantly challenge myself.
@@ -91,7 +92,15 @@ My name is Kemel. I am a <b> 9th-semester </b>  <b> student of Computer Science 
 
 
 
+<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
 
+
+<p align="center">
+<a href="mailto:jeronimokemel@gmail.com" target="blank"><img align="center" src="https://skillicons.dev/icons?i=gmail" alt="correo" height="50" width="50" /></a>
+<a href="https://github.com/KemelRuano" target="blank"><img align="center" src="https://skillicons.dev/icons?i=github" alt="github" height="50" width="50" /></a>
+<a href="https://www.instagram.com/kemel_0.0/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=instagram" alt="github" height="50" width="50" /></a>
+  
+</p>
 
 
