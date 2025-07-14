@@ -1,3 +1,8 @@
+<p align="center">
+    <img src="https://media.licdn.com/dms/image/v2/D4E16AQF2qgadh3ruTQ/profile-displaybackgroundimage-shrink_350_1400/B4EZgHPRbtGcAY-/0/1752468101598?e=1758153600&v=beta&t=80nZ1IVOT1Uh82OfKyzdKAi-CMGSzfX7rnX-xy2BmO8" alt="Banner" width="100%">
+  </a>
+</p>
+
 <h1 align="center" style="font-family: 'Arial', sans-serif; font-size: 24px; color: black;">
             ¡Hello!, 🌟 Welcome to my profile, delighted to meet you. 🚀✨
 </h1>
